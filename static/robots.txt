@@ -1,0 +1,27 @@
+User-agent: ia_archiver
+Allow: /*&action=raw
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: *
+Disallow: /w/
+Allow: /w/load.php?
+
+Disallow: /stats/rounds/
+Disallow: /stats/deaths/
+Disallow: /stats/me/
+Disallow: /stats/library/
+Disallow: /stats/stat/rounds/
+
+Sitemap: https://shiptest.net/w/sitemap/sitemap-index-mediawiki.xml
+Sitemap: https://shiptest.net/sitemap.xml
+Sitemap: https://forums.shiptest.net/sitemap.xml
+
+Crawl-delay: 10

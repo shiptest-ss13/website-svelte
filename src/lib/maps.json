@@ -1,0 +1,398 @@
+{
+	"447 Cirrus-class Medical Carrack": {
+		"filesize": 152685,
+		"short_name": "Cirrus-class",
+		"filename": "cybersun_cirrus",
+		"checksum": "1b13828b697646e0749c343a81825632290185321cefcf1a12b5916d676a877407812fee8c9b4c6c3b7f3374cb4eded77f5a9a6f0cd854aaef4280ca04172d41"
+	},
+	"291-T Fractus-class Trabacalo": {
+		"filesize": 108065,
+		"short_name": "Fractus-class",
+		"filename": "cybersun_fractus",
+		"checksum": "2275a91eceeacf3f0bc02f8f0dec0863f325d7d053dded2f5743d1ac54324c64d595886d60d308b215e84fae3fc6137626ee08bca4edcaa7c57a3249aed75fc1"
+	},
+	"712-Y Nimbus-class Caravel": {
+		"filesize": 64753,
+		"short_name": "Nimbus-class",
+		"filename": "cybersun_nimbus",
+		"checksum": "4f44229a6fcaa207b9a9d3d1b042996d0bf32beaea80a9d00d01de0fceb20dc9b727610a78e4ab98e4ba7ca4e1d6a6b8a401f8fde05c1277dfab045a1aa84655"
+	},
+	"Y450-H Banshee-class Salvage Clipper": {
+		"filesize": 83545,
+		"short_name": "Banshee-class",
+		"filename": "hardliners_banshee",
+		"checksum": "b5bd26ccfaf69a63eaba9021e178c884b64a0efb98f0a2b6ff71fc13254d2ccf844357b594b83179426d8c2b5bd94fe2d6787a42df1d16058991a3d55b571930"
+	},
+	"Y600-H Leyak-class Covert Frigate": {
+		"filesize": 118245,
+		"short_name": "Leyak-class",
+		"filename": "hardliners_leyak",
+		"checksum": "50fff74aa21d8ab4f3b9cc0625bef5e12b44799f33951358d3193185d23699698bc9ec5860e6bd6c1b8d168de95d5def1636a0b0be073a1ddda5890de637cfc0"
+	},
+	"Revenant-class Heavy Tug": {
+		"filesize": 108548,
+		"short_name": "Revenant-class",
+		"filename": "hardliners_revenant",
+		"checksum": "f234d385035fdb505ab9b9d405886f89ebebd59ae7654613d55ebfd9b1b87a762a820d06bd0216a89ba9fc8f4c62b8750d3a7a2aece8fc04c5922cc4cac8dfe5"
+	},
+	"Atira-class Rescue Skiff": {
+		"filesize": 165807,
+		"short_name": "Atira-class",
+		"filename": "independent_atira",
+		"checksum": "55deb6a3b343c302df8d5ef77a49731c19bac5f8192d9fff589f607b1063803a8fb60afd963e9695a4ffefeb180b40ce9cb181d009626fa2927a6ce8f4e1c007"
+	},
+	"Atoll-class Hospital Ship": {
+		"filesize": 139773,
+		"short_name": "Atoll-class",
+		"filename": "independent_atoll",
+		"checksum": "148fc79395e7ed0877e819bddcc1e4608e9a8b5b6ddbc1254710fd30aa8dde29c300629bde0af61901868b7b57b9712c263aef3b2ed7eb4ac5651bf05ae14276"
+	},
+	"S-700i Corona-class Touring Vessel": {
+		"filesize": 115653,
+		"short_name": "Corona-class",
+		"filename": "independent_corona",
+		"checksum": "cc41d6ad0898b31683b6fa2be2601008f2df4dc007fb2ae6be4d64da09a2b456cdae7ae3c553922b170529bc0d807ef24c22eaa133ffa7903fc7e92049cb168b"
+	},
+	"Falmouth-class Light Freighter": {
+		"filesize": 66942,
+		"short_name": "Falmouth-class",
+		"filename": "independent_falmouth",
+		"checksum": "95ddc251269f9c930c52f75dd2d153456b401c2f1b02dbc867022331b87f529ec2360ddfd3f5bc250828a5e07d2de7e81db88d51a90f599e6d964713737e1d9a"
+	},
+	"Firefly-class Industrial Liner": {
+		"filesize": 102763,
+		"short_name": "Firefly-class",
+		"filename": "independent_firefly",
+		"checksum": "4e7f4bb4518d8623638da12909dbcd98d9b9113063d0c62b4ee6a74e1bb1c922cdb3d22a120a5b73b12f761cd1bd72d29de9a3b083263f9aab652d0e33e313cd"
+	},
+	"Goliath-class Fleet Tender": {
+		"filesize": 213759,
+		"short_name": "Goliath-class",
+		"filename": "independent_goliath",
+		"checksum": "977fe741d2be661ecb363b0fbb5de497a7e260c2aff21f5e2fc3360140aef1255024a4da31d361019f7dfe4818e3796533d0ced879592a337ab496730cc834e5"
+	},
+	"F-80 Ivory-class Yacht": {
+		"filesize": 90928,
+		"short_name": "Ivory-class",
+		"filename": "independent_ivory",
+		"checksum": "70da3c2bb3406cf401722bafc472224d33ec356199d681172d0f2d9fa68cac5984a969e07db22c1e16d288d4a6f5dc7bdd9b6f3a5e4f7c4225ddb6cc6cb4846b"
+	},
+	"Junker-class Salvaged Ship": {
+		"filesize": 70686,
+		"short_name": "Junker-class",
+		"filename": "independent_junker",
+		"checksum": "2178e4b074830f33f4171c893bcacb3fb0058496272a2e3a7e9561807b12d6377b94ea5193df8342e5072ea40fc3d71d743f0a92b7ad5808cfe641c080805e92"
+	},
+	"Kilo-class Mining Ship": {
+		"filesize": 55554,
+		"short_name": "Kilo-class",
+		"filename": "independent_kilo",
+		"checksum": "6651db305a3d39e7abbeb8072295deeeaeef29bb39f10fa5e446375a170708b5da5995cac76d25d6332a01cce141d6ed375e9b0c7783c15acbcc837ad1e96452"
+	},
+	"Larnaca-class Bounty Trawler": {
+		"filesize": 72167,
+		"short_name": "Larnaca-class",
+		"filename": "independent_larnaca",
+		"checksum": "7c6bcd816abd4935273bd0672e4f75fbf69f8a683fe8fe68bc95e4920469e46537913bcfba8dd2704b69488404a2a7dc0f777c3895af77bd4cf7b0541a2cb0bf"
+	},
+	"Mark.II Dwayne-class Long Range Mining Transport": {
+		"filesize": 134728,
+		"short_name": "Mk.IIDwayne-class",
+		"filename": "independent_dwayne",
+		"checksum": "01d26925f22204d87d6eeaff67fb97eb2d769f44ceacf39696d7bff3ea49797c877557fc782660fc90cb0e928a76a17538aa0cae1a9ab9638ad7a79d9f871791"
+	},
+	"Mudskipper-class Salvage Clipper": {
+		"filesize": 144670,
+		"short_name": "Mudskipper-class",
+		"filename": "independent_mudskipper",
+		"checksum": "9bc75fa47d881ebb40015e1fdb9dbcb0f22349c7f6f72434d5736ed73903a9573c0cb11594f2ff79fe96d0611de19016c600714aa6cd76a1d9f4c05e7d143df8"
+	},
+	"Raleigh-class Corvette": {
+		"filesize": 124808,
+		"short_name": "Raleigh-class",
+		"filename": "independent_raleigh",
+		"checksum": "8881c84022cf4d0c3964337c20175e8d0fb6f777ee09923c3d06d3f7aa22cc1ae33d55ef775918f8dea3dfb24dde3b912d122f627e9000a0157787c041e268ab"
+	},
+	"Rhode-class Cargo Freighter": {
+		"filesize": 59037,
+		"short_name": "Rhode-class",
+		"filename": "independent_rhode",
+		"checksum": "2428a99a165e40e08a970e0194a4304c759c2c677290b7b2977252bcc1409c5cc9b02cbdbbdafdbc56a2be64fbc134a31326761e865a0da2a9bcbe3f2a889425"
+	},
+	"Riggs-class Sloop": {
+		"filesize": 191585,
+		"short_name": "Riggs-class",
+		"filename": "independent_rigger",
+		"checksum": "f62d2a4677ab818c0eb03d272797e01d471c5e1087e74da4f099193c81c832cc5f58a0d0195b694770de2a3c01827679b03de7b1106e4486ddab254f3d920135"
+	},
+	"Scarab-class Heavy Mining Ship": {
+		"filesize": 102198,
+		"short_name": "Scarab-class",
+		"filename": "independent_scarab",
+		"checksum": "c741044ef0d8341e1fa64055221f0fd6964cd215e619a5fc3c75b83f047c40d06b07de64be6792292cecff5dfb3f1d92fd02330763da79b171647eba54b0cff0"
+	},
+	"Shetland-class Multipurpose Frigate": {
+		"filesize": 282402,
+		"short_name": "Shetland-class",
+		"filename": "independent_shetland",
+		"checksum": "05ff6745d7f330a1100b5c551c5772f318f672eb10b8c3b885edec73a5ec242ac30bd36ad37070132e7afb4976c79f813b0e0b2dc192e6f06c2a8f328fcd189e"
+	},
+	"Sola-class Barque": {
+		"filesize": 100279,
+		"short_name": "Sola-class",
+		"filename": "independent_sola",
+		"checksum": "3713ad8b6cebf1efc7b2dc9669945b574181feb77b9c9c059ba2edbc1dedfbd402282c367431c9d950b6b9792672d4aa34f9d4f865834a468fedc84081566bed"
+	},
+	"Stag-class Salvage Rig": {
+		"filesize": 125591,
+		"short_name": "Stag-class",
+		"filename": "independent_stag",
+		"checksum": "9a3d5059201b7efb6eeeba269e769ee1cdf2c5c9398e4c27024b8f6c048f9e9a0f9ff05dd2faf71b502d6998a41d977cb38267e5d4cbc269c6039f4aa40de381"
+	},
+	"Sunskipper-class Culinary Vessel": {
+		"filesize": 96529,
+		"short_name": "Sunskipper-class",
+		"filename": "independent_sunskipper",
+		"checksum": "c5ddc999140868785d48930df996385623a0b2a62b06346910f868bb513149d022212c5566d1955b6c17b8c4f1103bba3afe0af2650378c6216e94382ba4b513"
+	},
+	"Venetia-class Frontier Yacht": {
+		"filesize": 117381,
+		"short_name": "Venetia-class",
+		"filename": "independent_venetia",
+		"checksum": "caf66f2d5ac0c2c44a6b6b46323059f556cc4f188b31bb75f7af62d730f1b1fc8e8c5597493af032e9777bc5c2fd8f9cc1d9da0f1d58c68fac4015d3ccbdac82"
+	},
+	"Apso-class Signaller": {
+		"filesize": 86459,
+		"short_name": "Apso-class",
+		"filename": "inteq_apso",
+		"checksum": "85cdac6767abac994239491dfde849d7c6b5716c9d7381151e0f665822df89062fb45898b065235448dc866b38fee5f6ab44c427d0b260d991030c8127fffeae"
+	},
+	"Colossus-class Armored Frigate": {
+		"filesize": 196441,
+		"short_name": "Colossus-class",
+		"filename": "inteq_colossus",
+		"checksum": "c0a81de9e5e69e6133d6886620f3c5cfdea5f063b4edd250473344d48142024ea188d24e265bf917586a127d4727d8ca3d15aeec9237f2e3ad6d544cdaab462a"
+	},
+	"Vaquero-class Light Frigate": {
+		"filesize": 136592,
+		"short_name": "Vaquero-class",
+		"filename": "inteq_vaquero",
+		"checksum": "49952245fe1394c4e3e19a8a51515cc8022f131d3d20758144c09acec0268655123071f4cb8c5d5820f75cb3fe28fe73438b5b6baf76ac44b64dd4b7e864163d"
+	},
+	"Atlas-class Light Armored Crusier": {
+		"filesize": 158896,
+		"short_name": "Atlas-class",
+		"filename": "minutemen_atlas",
+		"checksum": "e7eb521997d6b2a9b2a7f137bb53207b0a76af0eb124e259080e80abc78508afa30f34f4362fc34891949581d8254669764070b736b57cbd41208833cbf7799f"
+	},
+	"Cetus-class Interceptor": {
+		"filesize": 223400,
+		"short_name": "Cetus-class",
+		"filename": "minutemen_cetus",
+		"checksum": "7990891a08f37c3a9a7b48234dd908e7344d3933d9117b73d514f6f88cf412ebb7549604305a2a0c32d46f728a777dc9ed7270ceb756465212eaaa3424b56167"
+	},
+	"Gliese-class Surveying Ship": {
+		"filesize": 45139,
+		"short_name": "Gliese-class",
+		"filename": "minutemen_gliese",
+		"checksum": "bc88206f0b93af03ba1b078db52b29e21c6f40e1b55cfcceb81b47c2da9baab9854b594baf348461ed18b777412a3e6a7fc930322c3873e461831b0da5d4c7f9"
+	},
+	"Lyra-class Relief Cruiser": {
+		"filesize": 158916,
+		"short_name": "Lyra-class",
+		"filename": "minutemen_lyra",
+		"checksum": "cf8d9d57c9521afaf2443e33a4568f4f044208c0a4e5fb0340b9450142939604018782f8818b2c4a72cc4f531b8a6175ec372d67105d1d4bb43ebc3eaceb0a8c"
+	},
+	"Puppis-class Multirole Corvette": {
+		"filesize": 124319,
+		"short_name": "Puppis-class",
+		"filename": "minutemen_puppis",
+		"checksum": "cd7fb359a1b48e0ddbceadc5b8496fd07400d7f9604496ac413ab5e4d5f273787a448486b611753460e7123221ef88d98dde24f62c458e5f0fd994bdffe60b95"
+	},
+	"Derecho-class Wrecking Tug": {
+		"filesize": 144403,
+		"short_name": "Derecho-class",
+		"filename": "ngr_derecho",
+		"checksum": "f46ec0dcff0342a0dcd498822c4acf4c0c60423e0d5d437a5f92d5223af1f1fd7103a5ffbccb56f86e5850dba2524b3328227b682238a78bee9b547fcd559330"
+	},
+	"Haboob-class Patrol Craft": {
+		"filesize": 89486,
+		"short_name": "Haboob-class",
+		"filename": "ngr_haboob",
+		"checksum": "43d4e8e2fe54fbf93c470e71e3ad8b85e8e5195246f2384fbc807a2af4b5351a3cd88fd4977c4ba8e24ccc40832250054ec8857133c147668e7ab4a52bd8d224"
+	},
+	"Kali Andhi-class Destroyer": {
+		"filesize": 255897,
+		"short_name": "KaliAndhi-class",
+		"filename": "ngr_kaliandhi",
+		"checksum": "b7a60b89ed2f21c1609f4fc2ef3ba896d330dd3ba396ae45cfbef4b0020f0c53239b4fefa30045e080895a776f4abf33b00d8d1478431fedafc5e30b9cf432bd"
+	},
+	"Puru-Rangi-class Auxiliary Response Vessel": {
+		"filesize": 163338,
+		"short_name": "Puru-Rangi-class",
+		"filename": "ngr_pururangi",
+		"checksum": "fea7265e53ca5eb901c7672ce42d5b59ff5d56f02fe579bb9a8213f7fc3a114424fbee414fb22e90368d3e727ab7c272a395fd6c5ce1d6b804679707a02fddd1"
+	},
+	"Squall-class Relay Tender": {
+		"filesize": 77702,
+		"short_name": "Squall-class",
+		"filename": "ngr_squall",
+		"checksum": "2a5573c18b61bab37ce7604a7c076ddc4be0aafcb31652175fa64283cefa69efa157d3a22731cc4885ec5a1e20646900a51042484a10f5b22876314b6eb469d4"
+	},
+	"Crying Sun-class Light Frigate": {
+		"filesize": 260571,
+		"short_name": "C.Sun-class",
+		"filename": "pgf_crying_sun",
+		"checksum": "08b77ab0ea0d7a20dedd4fa7137b7c3f3dcadbf5352c4ee555505700fc043f7d262321d0fe58a2d43b28441a0f4441306bfe20d7eedd6c49af0627dc9619add6"
+	},
+	"Elated Bolide-class Assault Lander": {
+		"filesize": 222144,
+		"short_name": "E.Bolide-class",
+		"filename": "pgf_elated_bolide",
+		"checksum": "bd88f51fd095b088ec75d66e50ca5398e2df9989abbe7159bf4f4e7ab42769400db6e70e12a9128fc0443798b82c032ae32f7f5a245370d5da3aa0fe058444c1"
+	},
+	"Mercurial Quasar-class Rapid Response Corvette": {
+		"filesize": 94221,
+		"short_name": "M.Quasar-class",
+		"filename": "pgf_mercurial_quasar",
+		"checksum": "48560e248327f771199149d2a8f268192a691d8b4917a3931e0b5420495147da7e92c85d6da80fb9c0b30e65ed026b2cd8f48386ac94f4df770c6f5609eeb83e"
+	},
+	"Woeful Cthonian-class Patrol Cutter": {
+		"filesize": 116595,
+		"short_name": "W.Cthonian-class",
+		"filename": "pgf_woeful_cthonian",
+		"checksum": "433c79d5f66ef18ad20786be4d6c50e918723e322f0f011a85c82acafc6fa1ad7681e04e86bf70005131844d65e51b21ea07fa12d4e43948d0bda0a6453c3268"
+	},
+	"Madagascar-class Improvised Boarding Ferry": {
+		"filesize": 136636,
+		"short_name": "Madagascar-class",
+		"filename": "pirate_madagascar",
+		"checksum": "9787f8a8edc813f284b4c9088a023e43ec46331e6be14f17c96498a9524a5461f9ef71851814e23ca48f46d0c60bd03926ccb79e5bff3e1fa4a543ec00ce678f"
+	},
+	"Roach-class Schooner Retrofit": {
+		"filesize": 102331,
+		"short_name": "Roach-class",
+		"filename": "pirate_roach",
+		"checksum": "0701ea4fb37d22d7938a5c524d8f7c1d244d5ac52022edbd1fb9c15db963ff85a964cdd7256ae72cce10c11293f467b2a1b69c13cce8753ae20b49da84ac7f3c"
+	},
+	"Silverfish-class Blockade Runner": {
+		"filesize": 112160,
+		"short_name": "Silverfish-class",
+		"filename": "pirate_silverfish",
+		"checksum": "084b7c1d1b9d80a915e61b6d2fa450add4209490076a589dd574efb2151efbfeb8cf4678e59c8d66b3754e7e863571693dacaf3dbc35acef7e9d57364089c8f2"
+	},
+	"Tortuga-class Converted Cargo Freighter": {
+		"filesize": 138366,
+		"short_name": "Tortuga-class",
+		"filename": "pirate_tortuga",
+		"checksum": "ba1d8d9a908e1e3f8ba5638547ee67306f3f1dcf05151a88b9cba6c81e41f1ef6ef936c59aec310d891bae39a740d656cd3071965c4ebbd857638c9b24010a0e"
+	},
+	"Chronicle-class Outrider Frigate": {
+		"filesize": 172669,
+		"short_name": "Chronicle-class",
+		"filename": "solgov_chronicle",
+		"checksum": "ed3df102ee88dfdf400e554e803f728b01d91166a235b641745c6699b7240a612300f72281028214553ba1a2cf24829c63b601fea1fb3d9b2c3f348707679453"
+	},
+	"Enkidu-class Light Raider": {
+		"filesize": 127207,
+		"short_name": "Enkidu-class",
+		"filename": "solgov_enkidu",
+		"checksum": "5fd3e8f959f1e0239e1d324e47d6df8e50fd39e707793b7a56c745aae9783513536ce4434935f6920479920d8ed29b3fa614b6f612e23ba5e3e61f9b6a75ad35"
+	},
+	"Inkwell-class Supply Freighter": {
+		"filesize": 190477,
+		"short_name": "Inkwell-class",
+		"filename": "solgov_inkwell",
+		"checksum": "ca388a454f1b3b031009db7064854f1befc29c245e05531bc92b6aa657d117d64779a680783a15b2d7745c9ce1d441af45e61dbcf650d7d2939f333cf9c68dee"
+	},
+	"Paracelsus-class Medical Corvette": {
+		"filesize": 134494,
+		"short_name": "Paracelsus-class",
+		"filename": "solgov_paracelsus",
+		"checksum": "bea51672ce370171e72364843dfafd488f8e066bdd66b5cd36d057e0929166e55b895daf1dcbe05faf7118065518e58fb210a4ee9bc5f08d070b09da0ae046e2"
+	},
+	"Elder-class Montagnes' Vessel": {
+		"filesize": 99091,
+		"short_name": "Elder-class",
+		"filename": "srm_elder",
+		"checksum": "06d0b308da59eb7dc04ae7d4ea10e058142faffcc31d6c33cd13ef543c5bab94820184a17f03c278c81c0546f6e3fb8bbb24ec3042f1079cb8bca1ade3f3f78e"
+	},
+	"Routier-class Privateer": {
+		"filesize": 117646,
+		"short_name": "Routier-class",
+		"filename": "srm_routier",
+		"checksum": "ef5bb594bbcb7367a32952794c9342e36ee86c84ad83754a58a5b3a02afc81806910e1a532af6fb14321a671f0af0c42b9cfe87e7ec3c74bc3764f4ccec8f88b"
+	},
+	"Sojourner-class Homesteader": {
+		"filesize": 143626,
+		"short_name": "Sojourner-class",
+		"filename": "srm_sojourner",
+		"checksum": "79d43b8f285f9410cacb5a9c2bbbc80cb1871e8f8ef36b3d32932c546de29f98360ae759f94548a9d548c46f50dc4b9e53af3d17149c9def766e7f89fb546ca4"
+	},
+	"Mercury-class Drua": {
+		"filesize": 82301,
+		"short_name": "Mercury-class",
+		"filename": "suns_mercury",
+		"checksum": "011046a2f4c7efe3caa579315a5d8b5b4090643c8b04a71ca416e519c1dc001189cfa3048d912fbdc0ffc494af890c4a8981ea9df0425bddb70daeef33b08970"
+	},
+	"Capercaillie-class Patrol Vessel": {
+		"filesize": 144852,
+		"short_name": "Capercaillie-class",
+		"filename": "warra_capercaillie",
+		"checksum": "39ca057764cc703a6cfe5fb07c4498d6231d0221e9bd0966786007ca30b308825e54fb8e1572ba1bbdbd8a3c54bb3afbb17853d8b7a1f01e3d7a572a80c79d29"
+	},
+	"Caracara-class Salvaging Vessel": {
+		"filesize": 99529,
+		"short_name": "Caracara-class",
+		"filename": "warra_caracara",
+		"checksum": "762ba13e9828e86286dce7eedd9cc63d6996dce4827672ee602783131a78dadc5fdcc0352afb06679b0d5c67ea43f50296bd40c8f4693375cd686a28d25f3938"
+	},
+	"Harrier-class Exploration Cruiser": {
+		"filesize": 237850,
+		"short_name": "Harrier-class",
+		"filename": "warra_harrier",
+		"checksum": "30225ded46f1285bb70ffa44edacaf18a2087bc1be04539a5dcd3aeab4d86ea23d738536a428bed89efc553f9fc5459dab7a6dab16c176661392e03334aa8706"
+	},
+	"Kiwi-class Prospector": {
+		"filesize": 225429,
+		"short_name": "Kiwi-class",
+		"filename": "warra_kiwi",
+		"checksum": "7a367e83a0dd10f2fdb9505926539623c289dac79f310829c1ca7352ec5bbfb267a259c1a66d4ea9efb67ce21de36176a5bb7c7c94f00a566494e180c80c6401"
+	},
+	"Magpie-class Exploration Craft": {
+		"filesize": 176579,
+		"short_name": "Magpie-class",
+		"filename": "warra_magpie",
+		"checksum": "fd3b953f4ab6080972e38965ff936020274b9df85d0e5024df742316438b21dad74bfeb6153c526dfa91c8346933ec8ccfc9c6f5d345528ce7b7da41bbd55d50"
+	},
+	"Meta-class Freighter": {
+		"filesize": 134702,
+		"short_name": "Meta-class",
+		"filename": "warra_meta",
+		"checksum": "534049cf48398333dcb080f215b55c7ae0e98eb56e4b1ab236a02652fa569865f691f2ba8c191b6ce5d43be3833577a67098190a7341acc4bd3efd85e241b421"
+	},
+	"Quail-class Light Surveyor": {
+		"filesize": 78227,
+		"short_name": "Quail-class",
+		"filename": "warra_quail",
+		"checksum": "ea466d2a8aa9918ed9b1ed21accf1157e9f47985493751e09039687211290a78067d129f501e210c740cdb08c361448ad1283047b22f6fc666eb0055bfbb3a2b"
+	},
+	"Rhea-class Recovery Vessel": {
+		"filesize": 360560,
+		"short_name": "Rhea-class",
+		"filename": "warra_rhea",
+		"checksum": "177812178e6a635f72a089498323e4cdab8326f066333b2f315adad2875cd25bf0db3c8fc8b65c0f9f8920f183949e25686ae00571765731a611642d67ba40b9"
+	},
+	"Shrike-class Fast Response Vessel": {
+		"filesize": 116544,
+		"short_name": "Shrike-class",
+		"filename": "warra_shrike",
+		"checksum": "52565b0bb2d802d4b2c524ed5da0a79739941e94b0ad002b63ece87662ba59fd6566bf1a75c8a1de0af26d093a2bbe3cfa4ace86f12f60bc70f00b350ee7879e"
+	},
+	"Tegu-class Communications Freighter": {
+		"filesize": 147982,
+		"short_name": "Tegu-class",
+		"filename": "warra_tegu",
+		"checksum": "75e8910ae3ded1e2f0b3842f9fdea53e7e129dfc0d13aca92c3d03e42c8dd722dfa94744b7bc08baf0406ab570fe93419b58fe9abab8e05f8c06e29703f5ae5f"
+	}
+}
