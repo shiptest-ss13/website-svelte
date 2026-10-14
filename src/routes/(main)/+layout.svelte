@@ -11,7 +11,7 @@
 		faBook,
 		faCode
 	} from '@fortawesome/free-solid-svg-icons';
-	import { faDiscord, faGithub, faWikipediaW } from '@fortawesome/free-brands-svg-icons';
+	import { faDiscord, faGithub, faWikipediaW, faKoFi } from '@fortawesome/free-brands-svg-icons';
 	import { resolve } from '$app/paths';
 
 	import overmapThumb from '$lib/assets/overmap.webp';
@@ -84,6 +84,9 @@
 			<a href="https://status.shiptest.net"
 				><FontAwesomeIcon icon={faExclamationCircle}></FontAwesomeIcon> Status</a
 			>
+		</li>
+		<li>
+			<a href="https://ko-fi.com/shiptest"><FontAwesomeIcon icon={faKoFi}></FontAwesomeIcon> Donate</a>
 		</li>
 		<li>
 			<a href={resolve('/maps')}><FontAwesomeIcon icon={faMapMarkedAlt}></FontAwesomeIcon> Maps</a>
